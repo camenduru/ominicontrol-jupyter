@@ -17,4 +17,4 @@ https://arxiv.org/abs/2411.15098
 ### 🖼 Output
 
 ### 🏢 Sponsor
-[https://runpod.io](https://runpod.io?ref=iqi9iy8y)
+https://modelslab.com
