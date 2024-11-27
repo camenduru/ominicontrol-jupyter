@@ -15,6 +15,7 @@ https://github.com/Yuanshi9815/OminiControl
 https://arxiv.org/abs/2411.15098
 
 ### 🖼 Output
+<img width="1769" alt="Screenshot 2024-11-27 003847" src="https://github.com/user-attachments/assets/8a475ae0-e205-423f-a635-19de2e11909e">
 
 ### 🏢 Sponsor
 https://modelslab.com
