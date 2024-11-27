@@ -6,7 +6,7 @@
 
 | Colab | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/ominicontrol-jupyter/blob/main/ominicontrol_jupyter.ipynb) | ominicontrol_jupyter
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/ominicontrol-jupyter/blob/main/ominicontrol_jupyter.ipynb) | ominicontrol_jupyter (High-RAM 😑)
 
 ### 🧬 Code
 https://github.com/Yuanshi9815/OminiControl
